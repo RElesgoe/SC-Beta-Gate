@@ -1,0 +1,6 @@
+frmMain = 88, 88, 732, 724, , 110, 110, 754, 602, C
+modDeclares = 110, 110, 750, 746, 
+modParse = 44, 44, 696, 680, 
+modFunctions = 22, 22, 674, 658, Z
+clsPacketBuffer = 66, 66, 710, 702, 
+frmSetup = 176, 176, 899, 786, , 154, 154, 806, 646, C
